@@ -21,12 +21,11 @@ A record label is evaluating the potential of its newest artists and wants to de
 
 ### How it applies to this project:
 
-1. **Data Creation**: Spotify generates track-level metrics, including `liveness`.
-2. **Data Storage**: The dataset is provided in CSV format (`songs_normalize.csv`).
-3. **Data Processing**: Data was cleaned and grouped by year and genre to calculate averages.
-4. **Data Analysis**: We used Excel for initial exploration and Python for deeper analysis and visualizations.
-5. **Data Visualization**: Created charts and tables to show average liveness by year and genre.
-6. **Data Archiving/Disposal**: Final results can be exported or shared in reports for stakeholders.
+1. **Business Question**: Which artists or genres are best suited for live audience recordings, based on historical Spotify data?
+2. **Data Collection**: Spotify generates track-level metrics, including `liveness`.
+3. **Data Processing**: Data was grouped by year and genre to calculate averages.
+4. **Data Analysis**: Using Excel & Python found how strong each genres corralates with Liveness to find which artist should preform recordings live.
+5. **Data Visualization/Presentation**: Created charts and tables to show average liveness by year and genre.
 
 ---
 
