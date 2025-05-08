@@ -62,24 +62,24 @@ A record label is evaluating the potential of its newest artists and wants to de
 ### In the dataset (`songs_normalize.csv`):
 
 - **Column Data Types:**
-- **artist**               object
-- **song**                 object
-- **duration_ms**           int64
-- **explicit**               bool
-- **year**                  int64
-- **popularity**            int64
-- **danceability**        float64
-- **energy**              float64
-- **key**                   int64
-- **loudness**            float64
-- **mode**                  int64
-- **speechiness**         float64
-- **acousticness**        float64
-- **instrumentalness**    float64
-- **liveness**            float64
-- **valence**             float64
-- **tempo**               float64
-- **genre**                object
+- **artist:**               object
+- **song:**                 object
+- **duration_ms:**           int64
+- **explicit:**               bool
+- **year:**                  int64
+- **popularity:**            int64
+- **danceability:**        float64
+- **energy:**              float64
+- **key:**                   int64
+- **loudness:**            float64
+- **mode:**                  int64
+- **speechiness:**         float64
+- **acousticness:**        float64
+- **instrumentalness:**    float64
+- **liveness:**            float64
+- **valence:**             float64
+- **tempo:**               float64
+- **genre:**                object
 
 ---
 
