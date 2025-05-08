@@ -51,4 +51,46 @@ A record label is evaluating the potential of its newest artists and wants to de
 - Loaded CSV using `pandas`.
 - Used `groupby()` to compute average liveness by `genre` and by `year`.
 - Sorted genres to identify the **Top 5 with highest liveness**:
+
+
   
+- Used `.dtypes` and `.info()` to understand column types.
+- Could easily adapt this for artist-level recommendations.
+
+---
+
+## 5. 🧬 Data Types
+
+### In the dataset (`songs_normalize.csv`):
+
+-Column Data Types:
+-artist               object
+-song                 object
+-duration_ms           int64
+-explicit               bool
+-year                  int64
+-popularity            int64
+-danceability        float64
+-energy              float64
+-key                   int64
+-loudness            float64
+-mode                  int64
+-speechiness         float64
+-acousticness        float64
+-instrumentalness    float64
+-liveness            float64
+-valence             float64
+-tempo               float64
+-genre                object
+
+---
+
+## 6. 🧠 Conclusion
+
+1. **Live recordings have decreased slightly in recent years**, with a dip in average liveness from 2016 to 2019.
+2. **Genres like Country and Latin are far more live-oriented**, showing much higher liveness scores.
+3. **Spotify’s liveness metric is a strong tool** to help record labels decide which artists and genres are best suited for live audience recordings.
+
+---
+
+
