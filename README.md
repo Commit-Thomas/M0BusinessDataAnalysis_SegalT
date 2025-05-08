@@ -16,7 +16,8 @@ A record label is evaluating the potential of its newest artists and wants to de
 
 ## 2. 🔄 Data Lifecycle
 
-![Data Lifecycle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Data_Lifecycle.svg/1200px-Data_Lifecycle.svg.png)
+![image](https://github.com/user-attachments/assets/830c8392-d719-462c-8d8e-9bfcbdba1abb)
+
 
 ### How it applies to this project:
 
