@@ -50,10 +50,13 @@ A record label is evaluating the potential of its newest artists and wants to de
 - Used `groupby()` to compute average liveness by `genre` and by `year`.
 - Sorted genres to identify the **Top 5 with highest liveness**:
 
-
+- 1. Country, latin                           0.853
+- 2. World/Traditional, pop                   0.606
+- 3. Folk/Acoustic, rock                      0.560
+- 4. Pop, easy listening, Dance/Electronic    0.347
+- 5. Hip hop, country                         0.274
   
-- Used `.dtypes` and `.info()` to understand column types.
-- Could easily adapt this for artist-level recommendations.
+- Used `.dtypes` ` to understand column types.
 
 ---
 
