@@ -1,1 +1,54 @@
 # M0BusinessDataAnalysis_SegalT
+# 🎵 Spotify Liveness Analysis (1998–2020)
+
+## 1. 📈 Business Understanding
+
+A record label is evaluating the potential of its newest artists and wants to determine who might be best suited for **live audience recordings**. Using Spotify data from 1998 to 2020, this analysis explores the **"liveness"** metric across years and genres to understand:
+
+- How live performances have trended over time.
+- Which genres typically have higher liveness.
+- How this data can support artist-to-genre recording decisions.
+
+> **Business Question:**  
+> *“Which artists or genres are best suited for live audience recordings, based on historical Spotify data?”*
+
+---
+
+## 2. 🔄 Data Lifecycle
+
+![Data Lifecycle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Data_Lifecycle.svg/1200px-Data_Lifecycle.svg.png)
+
+### How it applies to this project:
+
+1. **Data Creation**: Spotify generates track-level metrics, including `liveness`.
+2. **Data Storage**: The dataset is provided in CSV format (`songs_normalize.csv`).
+3. **Data Processing**: Data was cleaned and grouped by year and genre to calculate averages.
+4. **Data Analysis**: We used Excel for initial exploration and Python for deeper analysis and visualizations.
+5. **Data Visualization**: Created charts and tables to show average liveness by year and genre.
+6. **Data Archiving/Disposal**: Final results can be exported or shared in reports for stakeholders.
+
+---
+
+## 3. 📊 Excel Analysis
+
+### Tasks Performed:
+- Imported and cleaned the dataset.
+- Filtered rows by year range (1998–2020).
+- Created a **pivot table** to show average liveness by year.
+- Highlighted a ~0.1 difference in average liveness from highest (0.26) to lowest (0.15).
+- Noted a **dip in liveness between 2016–2019**.
+
+### Optional Chart:
+
+![Sample Excel Chart](https://chartio.com/assets/fcdc0f/tutorials/charts/line-charts/f3e1a8a3c1fd5690d5fdf80865b6c151d0a30b2b8812bfc8473543f8f5f327d1/line-charts-featured.png)
+*Sample Line Chart of Average Liveness Over Time*
+
+---
+
+## 4. 🐍 Python Analysis
+
+### Tasks Performed:
+- Loaded CSV using `pandas`.
+- Used `groupby()` to compute average liveness by `genre` and by `year`.
+- Sorted genres to identify the **Top 5 with highest liveness**:
+  
