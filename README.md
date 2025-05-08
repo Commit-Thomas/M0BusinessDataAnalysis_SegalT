@@ -39,6 +39,7 @@ A record label is evaluating the potential of its newest artists and wants to de
 - Highlighted a ~0.1 difference in average liveness from highest (0.26) to lowest (0.15).
 - Noted a **dip in liveness between 2016–2019**.
 
+<img width="745" alt="Screenshot 2025-05-08 at 10 27 45 AM" src="https://github.com/user-attachments/assets/b3a8262f-4391-4a2a-a02b-bb9bca0d9f47" />
 
 ---
 
