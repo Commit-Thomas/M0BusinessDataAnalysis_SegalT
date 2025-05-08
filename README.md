@@ -37,7 +37,8 @@ A record label is evaluating the potential of its newest artists and wants to de
 - Created a **pivot table** to show average liveness by year.
 - Highlighted a ~0.1 difference in average liveness from highest (0.26) to lowest (0.15).
 - Noted a **dip in liveness between 2016–2019**.
-
+- Created a **pivot table** to show average liveness by genre.
+- Highlighted a ~0.8 difference in average liveness in genres from highest (0.85) to lowest (0.07).
 <img width="745" alt="Screenshot 2025-05-08 at 10 27 45 AM" src="https://github.com/user-attachments/assets/b3a8262f-4391-4a2a-a02b-bb9bca0d9f47" />
 
 ---
