@@ -39,10 +39,6 @@ A record label is evaluating the potential of its newest artists and wants to de
 - Highlighted a ~0.1 difference in average liveness from highest (0.26) to lowest (0.15).
 - Noted a **dip in liveness between 2016–2019**.
 
-### Optional Chart:
-
-![Sample Excel Chart](https://chartio.com/assets/fcdc0f/tutorials/charts/line-charts/f3e1a8a3c1fd5690d5fdf80865b6c151d0a30b2b8812bfc8473543f8f5f327d1/line-charts-featured.png)
-*Sample Line Chart of Average Liveness Over Time*
 
 ---
 
